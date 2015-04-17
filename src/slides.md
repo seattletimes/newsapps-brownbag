@@ -31,7 +31,7 @@
 
 * Former med-school student at Johns Hopkins
 * Radio reporter for NPR in Alaska
-* Graduate of Ada Academy
+* Graduate of Ada Developers Academy
 
 </section>
 
@@ -51,7 +51,7 @@
 
 * We build web interactives, adapt print graphics, create new data applications.
 * We also have data and tooling skills that other people can use.
-* And we do research and web scraping for stories.
+* And we can do research and web scraping for stories.
 
 </section>
 
@@ -83,7 +83,7 @@
 ## Examples - Tools
 
 * Watermarker
-* Responsive <iframe>
+* Responsive &lt;iframe&gt;
 * Leaflet maps
 * Sortable tables
 
