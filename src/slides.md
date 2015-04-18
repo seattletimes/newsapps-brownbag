@@ -61,7 +61,7 @@
 
 * [Building toward disaster](http://projects.seattletimes.com/2014/building-toward-disaster/)
 * [Seahawks fan map](http://projects.seattletimes.com/2014/hawks-fan-map/)
-* [Council districts](http://projects.seattletimes.com/2015/council-district-map/)
+* [City council districts](http://projects.seattletimes.com/2015/council-district-map/)
 * [Architecture quiz](http://projects.seattletimes.com/2015/seattle-architecture-quiz/)
 * [Elections](http://projects.seattletimes.com/2014/elections/)
 
@@ -71,10 +71,10 @@
 
 ## Examples - Embedded
 
-* [Oso donations]()
-* [Mobile homes]()
-* [EB5 Visas]()
-* [School vaccinations]()
+* [Oso donations](http://www.seattletimes.com/seattle-news/millions-in-donations-help-ease-burden-in-oso-slide-communities/)
+* [Mobile homes](http://www.seattletimes.com/business/real-estate/the-mobile-home-trap-how-a-warren-buffett-empire-preys-on-the-poor/)
+* [EB5 Visas](http://www.seattletimes.com/business/boeing-aerospace/low-wages-for-aerospace-workers-despite-tax-breaks-for-employers/)
+* [School vaccinations](http://blogs.seattletimes.com/fyi-guy/2015/02/04/explore-this-vaccine-exemption-rates-for-every-washington-school/)
 
 </section>
 
@@ -90,6 +90,16 @@
 </section>
 
 <section>
+
+## We want to work with you!
+
+* Talk to us **early** and **often**.
+* Email us to schedule a meeting. 
+* And invite us to your project planning meetings.
+* Come to us with ideas, even if you don't have a story yet.
+* We're always available to talk!
+
+*NewsApps@seattletimes.com*
 
 </section>
 
