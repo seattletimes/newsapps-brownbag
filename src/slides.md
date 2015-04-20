@@ -5,7 +5,9 @@
 
 ## News Apps
 
-### Data journalism and you
+#### or
+
+### Data journalism, new story forms, and other digital wizardry
 
 </section>
 
@@ -49,9 +51,17 @@
 
 ## What do we do?
 
-* We build web interactives, adapt print graphics, create new data applications.
-* We also have data and tooling skills that other people can use.
-* And we can do research and web scraping for stories.
+* Build web interactives
+* Make print graphics work online
+* Scrape, clean, and present data
+
+</section>
+
+<section>
+
+> One of the main lessons we’ve learned is that journalists have not been fully using all of the tools that are now available to us. For decades, the traditional article — be it a 700-word news article or an 1,800-word feature — has dominated newspaper and magazine journalism. Every other way to convey information — photographs, charts, maps, illustrations, you name it — has generally been placed in the role of satellite, dependent on an article and orbiting around it.
+
+[--The Upshot](http://www.nytimes.com/2015/04/18/upshot/letter-what-weve-learned.html)
 
 </section>
 
@@ -73,7 +83,7 @@
 
 * [Oso donations](http://www.seattletimes.com/seattle-news/millions-in-donations-help-ease-burden-in-oso-slide-communities/)
 * [Mobile homes](http://www.seattletimes.com/business/real-estate/the-mobile-home-trap-how-a-warren-buffett-empire-preys-on-the-poor/)
-* [EB5 Visas](http://www.seattletimes.com/business/boeing-aerospace/low-wages-for-aerospace-workers-despite-tax-breaks-for-employers/)
+* [EB5 visas](http://www.seattletimes.com/business/boeing-aerospace/low-wages-for-aerospace-workers-despite-tax-breaks-for-employers/)
 * [School vaccinations](http://blogs.seattletimes.com/fyi-guy/2015/02/04/explore-this-vaccine-exemption-rates-for-every-washington-school/)
 
 </section>
@@ -91,10 +101,45 @@
 
 <section>
 
+## How we work
+
+* Project intake: understand story and gather data
+* Heavy use of Google Docs for editing and text
+* Create a staging URL for proofing and discussion
+* Prototype, then rapidly iterate and improve
+* QA, copy desk, editors, and reporters sign off
+
+</section>
+
+<section>
+
+## What we need from you
+
+* Title and chatter
+* Details on sourcing
+* Subject expertise
+* Story guidance
+
+</section>
+
+<section>
+
+## What we *don't* need
+
+* Real-time updates
+* Programming or data-crunching
+* Heavy conceptualization
+
+Nothing is free, but we're here to help, not make more work for you!
+
+</section>
+
+<section>
+
 ## We want to work with you!
 
 * Talk to us **early** and **often**.
-* Email us to schedule a meeting. 
+* Email us to schedule a meeting.
 * And invite us to your project planning meetings.
 * Come to us with ideas, even if you don't have a story yet.
 * We're always available to talk!

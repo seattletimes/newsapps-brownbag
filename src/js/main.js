@@ -2,5 +2,6 @@
 var reveal = require("./lib/reveal.js/js/reveal.js");
 
 reveal.initialize({
-  history: true
+  history: true,
+  transition: "convex"
 });
