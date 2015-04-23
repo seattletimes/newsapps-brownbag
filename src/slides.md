@@ -59,7 +59,7 @@
 
 <section>
 
-> One of the main lessons we’ve learned is that journalists have not been fully using all of the tools that are now available to us. For decades, the traditional article — be it a 700-word news article or an 1,800-word feature — has dominated newspaper and magazine journalism. Every other way to convey information — photographs, charts, maps, illustrations, you name it — has generally been placed in the role of satellite, dependent on an article and orbiting around it.
+> One of the main lessons we’ve learned is that **journalists have not been fully using all of the tools that are now available to us.** For decades, the traditional article — be it a 700-word news article or an 1,800-word feature — has dominated newspaper and magazine journalism. Every other way to convey information — photographs, charts, maps, illustrations, you name it — has generally been placed in the role of satellite, dependent on an article and orbiting around it.
 
 [--The Upshot](http://www.nytimes.com/2015/04/18/upshot/letter-what-weve-learned.html)
 
@@ -140,7 +140,7 @@ Nothing is free, but we're here to help, not make more work for you!
 
 * Talk to us **early** and **often**.
 * Email us to schedule a meeting.
-* And invite us to your project planning meetings.
+* And invite us to your other project planning meetings.
 * Come to us with ideas, even if you don't have a story yet.
 * We're always available to talk!
 
