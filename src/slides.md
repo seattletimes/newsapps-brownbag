@@ -3,11 +3,11 @@
 
 <section>
 
-## News Apps
+## Interactives team
 
 #### or
 
-### Data journalism, new story forms, and other digital wizardry
+### Data journalism, news apps, and other digital wizardry
 
 </section>
 
@@ -39,7 +39,7 @@
 
 <section>
 
-## Together, we're your news apps team.
+## Together, we're your interactives team.
 
 * We don't work on WordPress.
 * We're dedicated developers in the newsroom.
