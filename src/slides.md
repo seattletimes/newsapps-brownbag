@@ -70,6 +70,8 @@
 ## How have others done it?
 * [How Y'all, Youse and You Guys Talk](http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html) (*The Upshot*)
 * [The Best and Worst Place to Grow Up: How Your Area Compares](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html) (*The Upshot*)
+* [Losing Ground](http://projects.propublica.org/louisiana/) (*Pro Publica*)
+* [Previously, on Arrested Development](https://apps.npr.org/arrested-development/) (*NPR*)
 
 </section>
 
