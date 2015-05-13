@@ -67,6 +67,14 @@
 
 <section>
 
+## How have others done it?
+* [How Y'all, Youse and You Guys Talk](http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html) (*The Upshot*)
+* [The Best and Worst Place to Grow Up: How Your Area Compares](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html) (*The Upshot*)
+
+</section>
+
+<section>
+
 ## Examples - Standalone
 
 * [Building toward disaster](http://projects.seattletimes.com/2014/building-toward-disaster/)
@@ -142,9 +150,9 @@ Nothing is free, but we're here to help, not make more work for you!
 * Email us to schedule a meeting.
 * And invite us to your other project planning meetings.
 * Come to us with ideas, even if you don't have a story yet.
-* We're always available to talk!
+* We sit south of the Hub in front of Ryan's office and we're always available to talk!
 
-*NewsApps@seattletimes.com*
+*interactives@seattletimes.com*
 
 </section>
 
