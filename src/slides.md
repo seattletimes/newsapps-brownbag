@@ -69,7 +69,8 @@
 
 ## How have others done it?
 * [How Y'all, Youse and You Guys Talk](http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html) (*The Upshot*)
-* [The Best and Worst Place to Grow Up: How Your Area Compares](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html) (*The Upshot*)
+* [The Best and Worst Places to Grow Up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html) (*The Upshot*)
+* [The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html) (*New York Times*)
 * [Losing Ground](http://projects.propublica.org/louisiana/) (*Pro Publica*)
 * [Previously, on Arrested Development](https://apps.npr.org/arrested-development/) (*NPR*)
 
@@ -125,10 +126,12 @@
 
 ## What we need from you
 
-* Title and chatter
-* Details on sourcing
+* Early communication
 * Subject expertise
 * Story guidance
+* Title, chatter, details on sourcing
+
+*interactives@seattletimes.com*
 
 </section>
 
@@ -136,11 +139,11 @@
 
 ## What we *don't* need
 
-* Real-time updates
 * Programming or data-crunching
 * Heavy conceptualization
+* Lots of last minute changes or new ideas
 
-Nothing is free, but we're here to help, not make more work for you!
+We're here to help, not make more work for you!
 
 </section>
 
